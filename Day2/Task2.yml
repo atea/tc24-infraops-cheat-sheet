@@ -16,3 +16,8 @@ jobs:
       env: 
         OUR_SECRET: ${{ secrets.OUR_SECRET }}
       run: echo $OUR_SECRET
+
+    - name: Our Variable
+      env:
+        OUR_ENV: ${{ variables.OUR_ENV }}
+      run: echo $OUR_ENV
