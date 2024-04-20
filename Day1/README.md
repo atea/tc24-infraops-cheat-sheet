@@ -2,7 +2,7 @@
 - Root ID: atealab
 
 # Links
-- [ALZ Module](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale)
+- [ALZ Module]([https://github.com/Azure/terraform-azurerm-caf-enterprise-scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki/%5BExamples%5D-Deploy-Custom-Landing-Zone-Archetypes))
 - [Network Module](https://github.com/fwikestad/terraform-spoke-network)
 - [VM Module](https://github.com/fwikestad/terraform-azurerm-windows-vm)
 
